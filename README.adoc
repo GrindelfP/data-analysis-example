@@ -1,0 +1,5 @@
+= Data Analysis Example =
+
+This project is dedicated to exploring the simple routines of data analysis.
+
+The first part of the task is described in link:docs/TASK.pdf[TASK]. It is aimed to get you familiar with the tools of data analysis in Python using various libraries.
